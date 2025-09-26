@@ -1,0 +1,268 @@
+[
+  {
+    "chapter": "פרק ראשון",
+    "topics": [
+      {
+        "mainTopic": "מקרים מיוחדים של עדים זוממים",
+        "subTopics": [
+          { "id": "1-1", "title": "ביאור לשון המשנה", "type": "halachic", "pages": "ב, א", "text": "testteufufyutfuyfyufuyfyfyt55555555555555555555555555555555555555555555555555555555555555xt" },
+          { "id": "1-2", "title": "עונש לזוממים לפסול כהן", "type": "halachic", "pages": "ב, א – ב, ב", "text": "testtext" },
+          { "id": "1-3", "title": "עונש לזוממים להטיל גלות", "type": "halachic", "pages": "ב, ב", "text": "testtext" },
+          { "id": "1-4", "title": "מניין שניתן להטיל מלקות", "type": "halachic", "pages": "ב, ב", "text": "testtext" },
+          { "id": "1-5", "title": "כופר בעדים זוממים", "type": "halachic", "pages": "ב, ב", "text": "testtext" },
+          { "id": "1-6", "title": "מכירה בעדים זוממים", "type": "halachic", "pages": "ב, ב", "text": "testtext" },
+          { "id": "1-7", "title": "תשלום עדים זוממים הוא קנס", "type": "halachic", "pages": "ב, ב – ג, א", "text": "testtext" },
+          { "id": "1-8", "title": "האם עד שהוזם שהודה משלם לפי חלקו", "type": "halachic", "pages": "ג, א", "text": "testtext"}
+        ]
+      },
+      {
+        "mainTopic": "עדויות על ממון",
+        "subTopics": [
+          { "id": "1-9", "title": "עדות על פלוני שגרש את אשתו ולא נתן כתובה", "type": "halachic", "pages": "ג, א" },
+          { "id": "1-10", "title": "עדות על קיצור זמן הלוואה", "type": "other_halachic", "pages": "ג, א – ג, ב" },
+          { "id": "1-11", "title": "האם הלוואה לעשר שנים משמטת", "type": "other_halachic", "pages": "ג, ב" },
+          { "id": "1-12", "title": "הלוואה על מנת שלא תשמט שביעית", "type": "other_halachic", "pages": "ג, ב" },
+          { "id": "1-13", "title": "פותח בית צוואר בשבת", "type": "other_halachic", "pages": "ג, ב" },
+          { "id": "1-14", "title": "שלושה לוגין מים מעורבים שנפלו למקווה", "type": "other_halachic", "pages": "ג, ב – ד, א" },
+          { "id": "1-15", "title": "חבית שנפלה לים הגדול", "type": "other_halachic", "pages": "ד, א" },
+          { "id": "1-16", "title": "האם זוממים יכולים להיענש פעמיים", "type": "halachic", "pages": "ד, א – ה, א" },
+          { "id": "1-17", "title": "האם דין עדים זוממים מלמד על מלקות בלאו ללא מעשה", "type": "other_halachic", "pages": "ד, ב" }
+        ]
+      },
+      {
+        "mainTopic": "חלוקת ממון בין עדים",
+        "subTopics": [
+          { "id": "1-18", "title": "", "type": "halachic", "pages": "ה, א" }
+        ]
+      },
+      {
+        "mainTopic": "כיצד מזימים עדים",
+        "subTopics": [
+          { "id": "1-19", "title": "בין הכחשה להזמה", "type": "halachic", "pages": "ה, א" },
+          { "id": "1-20", "title": "גבולות דין הזמה", "type": "halachic", "pages": "ה, א" },
+          { "id": "1-21", "title": "כת אחת שמזימה כתות רבות", "type": "halachic", "pages": "ה, א – ה, ב" },
+          { "id": "1-22", "title": "חזקה להבאת עדי שקר", "type": "halachic", "pages": "ה, ב" },
+          { "id": "1-23", "title": "עונש לזוממים לפני שביצעו זממם", "type": "halachic", "pages": "ה, ב" },
+          { "id": "1-24", "title": "טעות בהריגת עד", "type": "halachic", "pages": "ה, ב" }
+        ]
+      },
+      {
+        "mainTopic": "צירוף לעדות",
+        "subTopics": [
+          { "id": "1-25", "title": "היקש שניים לשלושה לדינים שונים", "type": "halachic", "pages": "ה, ב – ו, א" },
+          { "id": "1-26", "title": "צירוף בתוך כדי דיבור", "type": "halachic", "pages": "ו, א" },
+          { "id": "1-27", "title": "מי ראוי להיות עד", "type": "halachic", "pages": "ו, א" },
+          { "id": "1-28", "title": "בדיקת כוונה לעדות", "type": "halachic", "pages": "ו, א" },
+          { "id": "1-29", "title": "עדות מיוחדת בנפשות וממונות", "type": "halachic", "pages": "ו, ב" },
+          { "id": "1-30", "title": "התראה בחבר ושונא", "type": "halachic", "pages": "ו, ב" }
+        ]
+      },
+      {
+        "mainTopic": "סיום דיני עונשים",
+        "subTopics": [
+          { "id": "1-31", "title": "איסור לשמוע עדות מתורגמן", "type": "halachic", "pages": "ו, ב" },
+          { "id": "1-32", "title": "פסול עדים שקרובים לערב", "type": "other_halachic", "pages": "ז, א" },
+          { "id": "1-33", "title": "סתירת דין למי שברח", "type": "halachic", "pages": "ז, א" },
+          { "id": "1-34", "title": "היכן סנהדרין נוהגת", "type": "halachic", "pages": "ז, א" },
+          { "id": "1-35", "title": "תדירות ההרג והאם ניתן היה למנוע", "type": "halachic", "pages": "ז, א" }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "פרק שני",
+    "topics": [
+      {
+        "mainTopic": "צורות הרג שמחייבות גלות",
+        "subTopics": [
+          { "id": "2-1", "title": "בין דרך ירידה לדרך עליה", "type": "halachic", "pages": "ז, א – ז, ב" },
+          { "id": "2-2", "title": "אומר מותר להרוג", "type": "halachic", "pages": "ז, ב" },
+          { "id": "2-3", "title": "התכוון לאחד והרג אחר", "type": "halachic", "pages": "ז, ב" },
+          { "id": "2-4", "title": "שוגג שקרוב לאונס", "type": "halachic", "pages": "ז, ב" },
+          { "id": "2-5", "title": "ירידה לצורך עליה במקרים שונים", "type": "halachic", "pages": "ז, ב" },
+          { "id": "2-6", "title": "חיוב גלות מהתורה בנשמט ברזל או ניתז קיסם", "type": "halachic", "pages": "ז, ב – ח, א" },
+          { "id": "2-7", "title": "הריגה בכוח כוחו", "type": "halachic", "pages": "ח, א" }
+        ]
+      },
+      {
+        "mainTopic": "מקומות שמחייבים גלות",
+        "subTopics": [
+          { "id": "2-8", "title": "זורק אבן לרשות הרבים", "type": "halachic", "pages": "ח, א" },
+          { "id": "2-9", "title": "ממציא את עצמו", "type": "halachic", "pages": "ח, א" },
+          { "id": "2-10", "title": "מקום שאין לניזק רשות להיכנס", "type": "halachic", "pages": "ח, א" }
+        ]
+      },
+      {
+        "mainTopic": "מי יכול להתחייב גלות",
+        "subTopics": [
+          { "id": "2-11", "title": "הריגה תוך כדי מצווה", "type": "halachic", "pages": "ח, א" },
+          { "id": "2-12", "title": "האם כשכתוב 'אשר' זו לשון רשות", "type": "other_halachic", "pages": "ח, א – ח, ב" },
+          { "id": "2-13", "title": "בחריש ובקציר תשבות – מניין שממעט מצווה", "type": "other_halachic", "pages": "ח, ב" },
+          { "id": "2-14", "title": "מתי אב גולה על ידי הבן", "type": "halachic", "pages": "ח, ב" },
+          { "id": "2-15", "title": "מתי בן גולה על ידי אב", "type": "halachic", "pages": "ח, ב" },
+          { "id": "2-16", "title": "הריגת עבד וכותי", "type": "halachic", "pages": "ח, ב" },
+          { "id": "2-17", "title": "קללה והכאה של עבד וכותי", "type": "other_halachic", "pages": "ח, ב – ט, א" },
+          { "id": "2-18", "title": "גלות של גר תושב – כללי, אומר מותר", "type": "halachic", "pages": "ט, א – ט, ב" },
+          { "id": "2-19", "title": "מדוע אבימלך נענש", "type": "story", "pages": "ט, א – ט, ב" },
+          { "id": "2-20", "title": "גלות בסומא", "type": "halachic", "pages": "ט, ב" },
+          { "id": "2-21", "title": "גלות בחבר וסומא", "type": "halachic", "pages": "ט, ב" }
+        ]
+      },
+      {
+        "mainTopic": "ערי המקלט",
+        "subTopics": [
+          { "id": "2-22", "title": "מי גולה, להיכן גולה, כיצד גולה", "type": "halachic", "pages": "ט, ב" },
+          { "id": "2-23", "title": "מיקום ערי המקלט", "type": "halachic", "pages": "ט, ב – י, א" },
+          { "id": "2-24", "title": "בין ערי המקלט לשאר ערי הלווים", "type": "halachic", "pages": "י, א" },
+          { "id": "2-25", "title": "אופי ערי המקלט", "type": "halachic", "pages": "י, א" },
+          { "id": "2-26", "title": "הגליית תלמיד או רב שהרגו", "type": "halachic", "pages": "י, א" },
+          { "id": "2-27", "title": "פטירתו של רב חסדא", "type": "story", "pages": "י, א" },
+          { "id": "2-28", "title": "הבדלת ערי המקלט על ידי משה", "type": "story", "pages": "י, א" },
+          { "id": "2-29", "title": "האיסור ללמוד תורה ביחיד", "type": "story", "pages": "י, א" },
+          { "id": "2-30", "title": "חשיבות לימוד התורה של דוד", "type": "story", "pages": "י, א" },
+          { "id": "2-31", "title": "הכוונה לערי המקלט", "type": "halachic", "pages": "י, א – י, ב" },
+          { "id": "2-32", "title": "ה' מסייע לחוטאים ומגלגל נקמה בהורגים", "type": "story", "pages": "י, ב" },
+          { "id": "2-33", "title": "הולכת אדם בדרך שרוצה ללכת", "type": "story", "pages": "י, ב" },
+          { "id": "2-34", "title": "חיוב על הריגת הרוצח בדרך", "type": "halachic", "pages": "י, ב" },
+          { "id": "2-35", "title": "האם רוצח במזיד נס לעיר מקלט", "type": "halachic", "pages": "י, ב" },
+          { "id": "2-36", "title": "עיר שרובה רוצחים", "type": "halachic", "pages": "י, ב" },
+          { "id": "2-37", "title": "עיר ללא זקנים למקלט, לבן סורר ומורה ועגלה ערופה", "type": "other_halachic", "pages": "י, ב" },
+          { "id": "2-38", "title": "כתיבת פרשת רוצחים בלשון עזה", "type": "halachic", "pages": "י, ב – יא, א" },
+          { "id": "2-39", "title": "האם השורש דבר מבטא קושי", "type": "other_halachic", "pages": "יא, א" },
+          { "id": "2-40", "title": "דרשת הפסוק 'ויכתוב יהושע בספר תורת א-להים'", "type": "halachic", "pages": "יא, א" },
+          { "id": "2-41", "title": "ספר תורה שתפרו בפשתן", "type": "other_halachic", "pages": "יא, א" }
+        ]
+      },
+      {
+        "mainTopic": "חזרת הרוצח במות הכהן",
+        "subTopics": [
+          { "id": "2-42", "title": "מות הכהן שמחזיר את הרוצח", "type": "halachic", "pages": "יא, א" },
+          { "id": "2-43", "title": "מקור הדין", "type": "halachic", "pages": "יא, א" },
+          { "id": "2-44", "title": "אחריות הכהן על מניעת הרצח", "type": "halachic", "pages": "יא, א" },
+          { "id": "2-45", "title": "קללת חכם על חינם ועל תנאי – אחיתופל ועלי", "type": "story", "pages": "יא, א" },
+          { "id": "2-46", "title": "נידוי על תנאי – יהודה", "type": "story", "pages": "יא, ב" },
+          { "id": "2-47", "title": "האם צריך שכולם ימותו כדי שיצא", "type": "halachic", "pages": "יא, ב" },
+          { "id": "2-48", "title": "מקרים שאינו יוצא + חומרת איסור היציאה", "type": "halachic", "pages": "יא, ב" },
+          { "id": "2-49", "title": "עצמותיו של הרוצח", "type": "halachic", "pages": "יא, ב" },
+          { "id": "2-50", "title": "נגמר דינו ונעשה כהן בן גרושה", "type": "halachic", "pages": "יא, ב – יב, א" },
+          { "id": "2-51", "title": "טעותו של יואב ושל מלאך המוות", "type": "story", "pages": "יב, א" },
+          { "id": "2-52", "title": "קבורה בעיר מקלט", "type": "halachic", "pages": "יב, א" },
+          { "id": "2-53", "title": "קליטת תחום העיר", "type": "halachic", "pages": "יב, א" },
+          { "id": "2-54", "title": "רוצח שיצא מחוץ לעיר מקלט", "type": "halachic", "pages": "יב, א" },
+          { "id": "2-55", "title": "נכד נעשה גואל הדם לסבא", "type": "halachic", "pages": "יב, א" }
+        ]
+      },
+      {
+        "mainTopic": "מקרים מיוחדים ושאלות נוספות",
+        "subTopics": [
+          { "id": "2-56", "title": "הגדרת אילן על הגבול לפי נוף או עיקר", "type": "halachic", "pages": "יב, א – יב, ב" },
+          { "id": "2-57", "title": "הרג בעיר מקלט או לוי שהרג בעיר", "type": "halachic", "pages": "יב, ב" },
+          { "id": "2-58", "title": "כבוד לרוצח", "type": "halachic", "pages": "יב, ב" },
+          { "id": "2-59", "title": "העלאת שכר ללווים", "type": "halachic", "pages": "יג, א" },
+          { "id": "2-60", "title": "חזרת הרוצח לשררה", "type": "halachic", "pages": "יג, א" }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "פרק שלישי",
+    "topics": [
+      {
+        "mainTopic": "מלקות באיסורי כרת ומיתה בידי שמים",
+        "subTopics": [
+          { "id": "3-1", "title": "סקירת האיסורים בעריות ואכילה", "type": "halachic", "pages": "יג, א" },
+          { "id": "3-2", "title": "האם לוקים על כרתות ומיתות בית דין", "type": "halachic", "pages": "יג, א – יד, א" },
+          { "id": "3-3", "title": "גבולות המחלוקת על מיתות בית דין", "type": "halachic", "pages": "יג, ב" }
+        ]
+      },
+      {
+        "mainTopic": "מקורות לחיוב מלקות",
+        "subTopics": [
+          { "id": "3-4", "title": "חילוק חיובים שונים בלאוים קרובים", "type": "halachic", "pages": "יד, א – יד, ב" },
+          { "id": "3-5", "title": "מקור למלקות בטמא שאכל קודש", "type": "halachic", "pages": "יד, ב" },
+          { "id": "3-6", "title": "מלקות בטמא שנגע בקודש או אכל בשר קודש לפני זריקה", "type": "halachic", "pages": "יד, ב" }
+        ]
+      },
+      {
+        "mainTopic": "מלקות בלאו שקדמו עשה וניתק לעשה",
+        "subTopics": [
+          { "id": "3-7", "title": "מלקות בלאו שקדמו עשה + דיון על אונס", "type": "halachic", "pages": "יד, ב – טו, א" },
+          { "id": "3-8", "title": "מלקות בלאו הניתק לעשה שביטלו או לא קיימו", "type": "halachic", "pages": "טו, א – טו, ב" },
+          { "id": "3-9", "title": "מלקות בהתראת ספק", "type": "halachic", "pages": "טו, ב – טז, א" },
+          { "id": "3-10", "title": "המשך הדיון על לאו הניתק לעשה בדעת ר' יוחנן", "type": "halachic", "pages": "טז, א – טז, ב" }
+        ]
+      },
+      {
+        "mainTopic": "איסורי אכילה שונים",
+        "subTopics": [
+          { "id": "3-11", "title": "פירוט מלקות באכילת שרצים שונים", "type": "halachic", "pages": "טז, ב" },
+          { "id": "3-12", "title": "חיוב בבל תשקצו", "type": "other_halachic", "pages": "טז, ב" },
+          { "id": "3-13", "title": "מלקות על טבל של מעשר עני", "type": "halachic", "pages": "טז, ב – יז, א" },
+          { "id": "3-14", "title": "דעת ר' שמעון בחיוב מלקות על בריה", "type": "halachic", "pages": "יז, א" },
+          { "id": "3-15", "title": "האם חובה להניח ביכורים או גם לקרוא", "type": "halachic", "pages": "יז, א" },
+          { "id": "3-16", "title": "הדרשה המיוחדת של ר' שמעון מהפסוק 'לא תוכל לאכול'", "type": "halachic", "pages": "יז, א – יח, א" },
+          { "id": "3-17", "title": "כמה לוקה זר שאכל מהעולה לפני זריקה חוץ לחומה", "type": "halachic", "pages": "יח, א – יח, ב" },
+          { "id": "3-18", "title": "זר שאכל מחטאת לפני זריקה, לאו הבא מכלל עשה", "type": "halachic", "pages": "יח, ב" },
+          { "id": "3-19", "title": "המשך הדיון האם הנחה או קריאה מעכבים בביכורים", "type": "halachic", "pages": "יח, ב" },
+          { "id": "3-20", "title": "זמן חיוב מיתה בידי שמים בביכורים", "type": "other_halachic", "pages": "יח, ב – יט, א" },
+          { "id": "3-21", "title": "מה מתיר את אכילת הביכורים", "type": "other_halachic", "pages": "יט, א – יט, ב" },
+          { "id": "3-22", "title": "מלקות באכילת מעשר שני שלא לפי ההלכה", "type": "halachic", "pages": "יט, ב" },
+          { "id": "3-23", "title": "פדיון מעשר שני מחוץ לחומה", "type": "other_halachic", "pages": "יט, ב" },
+          { "id": "3-24", "title": "חיוב מלקות על אכילת מעשר מחוץ לחומה", "type": "other_halachic", "pages": "יט, ב – כ, א" }
+        ]
+      },
+      {
+        "mainTopic": "איסורים בשיער ובגוף",
+        "subTopics": [
+          { "id": "3-25", "title": "האם מתנות שלא הורמו נחשבות כהורמו", "type": "other_halachic", "pages": "כ, א" },
+          { "id": "3-26", "title": "מקור לחיוב על קרחה למת", "type": "halachic", "pages": "כ, א" },
+          { "id": "3-27", "title": "כיצד עובר על חמישה לאוים", "type": "halachic", "pages": "כ, א – כ, ב" },
+          { "id": "3-28", "title": "שיעור הקרחה", "type": "halachic", "pages": "כ, ב" },
+          { "id": "3-29", "title": "חיוב על הוצאת שערות בשבת", "type": "other_halachic", "pages": "כ, ב" },
+          { "id": "3-30", "title": "הקפת הראש – מקום החיוב ומי לוקה", "type": "halachic", "pages": "כ, ב" },
+          { "id": "3-31", "title": "שריטה על מת – מטרתה וכמה לאוים", "type": "halachic", "pages": "כ, ב – כא, א" },
+          { "id": "3-32", "title": "מיקום פאות הראש, נטילה בתער", "type": "halachic", "pages": "כא, א" },
+          { "id": "3-33", "title": "חיוב על כתובת קעקע – איך ומה כותב", "type": "halachic", "pages": "כא, א" },
+          { "id": "3-34", "title": "נתינת אפר מקלה על מכה", "type": "halachic", "pages": "כא, א" }
+        ]
+      },
+      {
+        "mainTopic": "חיובים רבים על איסור",
+        "subTopics": [
+          { "id": "3-35", "title": "יין וטומאה בנזיר, לבישת כלאיים, חרישת תלם ביום טוב", "type": "halachic", "pages": "כא, א – כא, ב" },
+          { "id": "3-36", "title": "חיובים רבים על כלאיים", "type": "halachic", "pages": "כא, ב" },
+          { "id": "3-37", "title": "מניין שחופה בכלאיים לוקה", "type": "other_halachic", "pages": "כא, ב" },
+          { "id": "3-38", "title": "האם יש חילוק מלאכות ביום טוב", "type": "other_halachic", "pages": "כא, ב – כב, א" },
+          { "id": "3-39", "title": "לאוים נוספים שהיו צריכים להיכנס למשנה", "type": "halachic", "pages": "כב, א" },
+          { "id": "3-40", "title": "מלקות באיסורים פסולי מוקדשים", "type": "halachic", "pages": "כב, א" }
+        ]
+      },
+      {
+        "mainTopic": "מספר המלקות וצורתם",
+        "subTopics": [
+          { "id": "3-41", "title": "מספר המלקות ומקורו", "type": "halachic", "pages": "כב, א – כב, ב" },
+          { "id": "3-42", "title": "בעיות באומד המלקות", "type": "halachic", "pages": "כב, ב" },
+          { "id": "3-43", "title": "מלקות על כמה עברות", "type": "halachic", "pages": "כב, ב" },
+          { "id": "3-44", "title": "צורת ההלקאה וההקראה", "type": "halachic", "pages": "כב, ב – כג, א" },
+          { "id": "3-45", "title": "מימרות של רב ששת משום ר' אלעזר", "type": "other_halachic", "pages": "כג, א" },
+          { "id": "3-46", "title": "פרטי צורת ההלקאה", "type": "halachic", "pages": "כג, א" },
+          { "id": "3-47", "title": "מי ראוי להלקות", "type": "halachic", "pages": "כג, א" },
+          { "id": "3-48", "title": "קלקול בזמן המלקות", "type": "halachic", "pages": "כג, א" },
+          { "id": "3-49", "title": "האם חייבי כרתות נפטרים במלקות", "type": "halachic", "pages": "כג, א – כג, ב" }
+        ]
+      },
+      {
+        "mainTopic": "מצוות וקיומם",
+        "subTopics": [
+          { "id": "3-50", "title": "עוצמתן של המצוות", "type": "story", "pages": "כג, א – כג, ב" },
+          { "id": "3-51", "title": "דברים שעשו למטה והסכימו למעלה", "type": "story+other_halachic", "pages": "כג, ב" },
+          { "id": "3-52", "title": "שלושה מקומות שהופיעה בהם רוח הקודש", "type": "story+other_halachic", "pages": "כג, ב" },
+          { "id": "3-53", "title": "תרי\"ג מצוות וצמצומן", "type": "story+other_halachic", "pages": "כג, ב – כד, א" },
+          { "id": "3-54", "title": "גזרות משה רבנו שהתבטלו", "type": "story", "pages": "כד, א" },
+          { "id": "3-55", "title": "צחוקו של ר' עקיבא מול רומי", "type": "story", "pages": "כד, א – כד, ב" },
+          { "id": "3-56", "title": "צחוקו של ר' עקיבא מול החורבן", "type": "story", "pages": "כד, ב" }
+        ]
+      }
+    ]
+  }
+]
